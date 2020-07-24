@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Youtube Badge]](https://www.youtube.com/developerfunnel) [![Linkedin Badge](https://img.shields.io/badge/-SoumyadipChowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-chowdhury/)](https://www.linkedin.com/in/soumyadip-chowdhury)
+[![YouTube Badge](https://img.shields.io/badge/-DeveloperFunnel-red?style=flat-square&logo=YouTube&logoColor=red&link=https://www.youtube.com/developerfunnel/)](https://www.youtube.com/developerfunnel)
+
+[![Linkedin Badge](https://img.shields.io/badge/-SoumyadipChowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-chowdhury/)](https://www.linkedin.com/in/soumyadip-chowdhury)
 [![Gmail Badge](https://img.shields.io/badge/-soumyadip.note@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soumyadip.note@gmail.com)](mailto:soumyadip.note@gmail.com)
 
 I'm AAKASH HANDA
