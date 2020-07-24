@@ -2,8 +2,8 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 
-[![Linkedin Badge](https://img.shields.io/badge/-SoumyadipChowdhury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumyadip-chowdhury/)](https://www.linkedin.com/in/soumyadip-chowdhury)
-[![Gmail Badge](https://img.shields.io/badge/-soumyadip.note@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soumyadip.note@gmail.com)](mailto:soumyadip.note@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AakashHanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-handa-01629954/)](https://www.linkedin.com/in/aakash-handa-01629954/)
+[![Gmail Badge](https://img.shields.io/badge/-ahanda205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahanda205@gmail.com)](mailto:ahanda205@gmail.com)
 
 I'm AAKASH HANDA
 Full Stack Solution Architect
