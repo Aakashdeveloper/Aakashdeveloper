@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 
 [![Linkedin Badge](https://img.shields.io/badge/-AakashHanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-handa-01629954/)](https://www.linkedin.com/in/aakash-handa-01629954/)
-[![Gmail Badge](https://img.shields.io/badge/-ahanda205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahanda205@gmail.com)](mailto:ahanda205@gmail.com)
+[![Website Badge](https://img.shields.io/badge/WebSite-AakashHanda-green)](https://www.aakashhanda.me)
 
 I'm AAKASH HANDA
 Full Stack Solution Architect
