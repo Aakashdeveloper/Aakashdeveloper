@@ -12,6 +12,13 @@ The crossover between design and programming has always been of interest to me, 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+  </a>
+</div>
+
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
