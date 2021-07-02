@@ -11,7 +11,7 @@ The crossover between design and programming has always been of interest to me, 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-(https://stackoverflow.com/users/3687251/aakash-handa)
+
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
