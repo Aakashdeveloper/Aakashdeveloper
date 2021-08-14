@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Facebbok Badge](https://img.shields.io/badge/Facebbok-Aakash-blue)](https://www.facebook.com/aakash.handa.14)
 
 I'm
 Full Stack Solution Architect
